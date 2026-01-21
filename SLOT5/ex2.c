@@ -8,7 +8,7 @@ int main(){
 	max = a;
 	if(max<b)
 		max = b;
-		if(max<c)
+	if(max<c)
 			max = c;
-			printf("so lon nhat la: %.2f", max);
+	printf("so lon nhat la: %.2f", max);
 }
